@@ -82,12 +82,6 @@ Node.js | Express.js | MongoDB | Angular
 
 ---
 
-## 🐍 Contribution Graph
-
-[![Prathyudh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PR4THYUDH&theme=tokyo-night)](https://github.com/PR4THYUDH)
-
----
-
 ## 🧑‍💻 3D Contribution Graph
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PR4THYUDH&theme=github_dark" />
