@@ -66,7 +66,7 @@ Node.js | Express.js | MongoDB | Angular
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PR4THYUDH&show_icons=true&theme=tokyonight&cache_seconds=1800)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PR4THYUDH&theme=github_dark" />
 
 ---
 
@@ -78,7 +78,7 @@ Node.js | Express.js | MongoDB | Angular
 
 ## 📈 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PR4THYUDH&layout=compact&theme=tokyonight)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PR4THYUDH&theme=github_dark" />
 
 ---
 
