@@ -66,25 +66,25 @@ Node.js | Express.js | MongoDB | Angular
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PR4THYUDH\&show_icons=true\&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PR4THYUDH&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=PR4THYUDH\&theme=tokyonight)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=PR4THYUDH&theme=tokyonight)
 
 ---
 
 ## 📈 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PR4THYUDH\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PR4THYUDH&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🐍 Contribution Graph
 
-![Contribution Graph](https://github.com/PR4THYUDH/PR4THYUDH/blob/output/github-contribution-grid-snake.svg)
+[![Prathyudh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PR4THYUDH&theme=tokyo-night)](https://github.com/PR4THYUDH)
 
 ---
 
