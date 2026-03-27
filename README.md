@@ -97,6 +97,7 @@ Node.js | Express.js | MongoDB | Angular
 ## 📫 Connect With Me
 
 LinkedIn: https://linkedin.com/in/prathyudh
+
 Email: [prathyudhpremap@gmail.com](mailto:prathyudhpremap@egmail.com)
 
 ---
