@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#080d14">
+  <meta name="description" content="Prathyudh Prem's interactive cybersecurity profile. Learning toward offensive security, with programming as a foundation.">
+  <title>PR4THYUDH / Offensive security learner</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#focus">Skip to learning focus</a>
+  <div class="shell">
+    <header><a class="wordmark" href="#top"><span class="mark">[ P ]</span> PR4THYUDH</a><nav aria-label="Main"><a href="#focus">Focus</a><a href="#terminal">Terminal</a><a href="https://github.com/PR4THYUDH">GitHub ↗</a></nav></header>
+    <main id="top">
+      <section class="hero" aria-labelledby="intro">
+        <div class="intro">
+          <p class="eyebrow"><span class="status-dot"></span> CYBERSECURITY LEARNER</p>
+          <h1 id="intro">A curious mind.<br>An <em>offensive</em><br>direction.</h1>
+          <p class="name">I'm Prathyudh Prem.</p>
+          <p class="lead">Learning how systems work, how they break, and how to secure them. Programming is the foundation I'm building on.</p>
+          <div class="actions"><a class="primary" href="#focus">Explore my focus <span>↓</span></a><a class="text-link" href="https://github.com/PR4THYUDH?tab=repositories">View my code ↗</a></div>
+          <p class="annotation">BCA GRADUATE <span>/</span> ASPIRING OFFENSIVE PRACTITIONER</p>
+        </div>
+        <div class="viewport">
+          <div class="viewport-head"><span>SECURITY CORE / 01</span><span class="live">INTERACTIVE</span></div>
+          <canvas id="core" tabindex="0" aria-label="Rotatable 3D security core. Drag to rotate, or focus and use arrow keys. Space toggles automatic rotation.">Your browser does not support canvas. Explore the learning topics below instead.</canvas>
+          <div class="core-caption"><span id="core-label">WEB APPLICATION SECURITY</span><span>DRAG TO ROTATE</span></div>
+          <div class="controls"><button id="motion" type="button" aria-pressed="false">Pause motion</button><button id="reset" type="button">Reset view</button><span>← ↑ ↓ → &nbsp; keyboard control</span></div>
+        </div>
+      </section>
+      <section id="focus" class="focus-section" aria-labelledby="focus-title">
+        <div class="section-head"><p class="eyebrow">01 / LEARNING DIRECTION</p><h2 id="focus-title">Explore the attack surface.</h2><p>Four areas I want to understand. Select one to look closer.</p></div>
+        <div class="focus-grid" role="group" aria-label="Choose a learning focus">
+          <button class="focus-option active" data-focus="web" aria-pressed="true"><span class="number">01 <span>↗</span></span><strong>Web security</strong><small>Behind the request</small></button>
+          <button class="focus-option" data-focus="systems" aria-pressed="false"><span class="number">02 <span>↗</span></span><strong>Systems & networks</strong><small>Beneath the application</small></button>
+          <button class="focus-option" data-focus="scripting" aria-pressed="false"><span class="number">03 <span>↗</span></span><strong>Security scripting</strong><small>Turn code into a tool</small></button>
+          <button class="focus-option" data-focus="method" aria-pressed="false"><span class="number">04 <span>↗</span></span><strong>Offensive methodology</strong><small>Think, test, document</small></button>
+        </div>
+        <div class="focus-detail" aria-live="polite" aria-atomic="true"><div><p class="eyebrow" id="detail-kicker">FOCUS / WEB SECURITY</p><h3 id="detail-title">Understand what a request can do.</h3></div><div><p id="detail-copy">I want to understand how authentication, access control, and input handling shape an application's security—and how mistakes in those boundaries create weaknesses.</p><p class="detail-tags" id="detail-tags">HTTP · Authentication · Access control · Input handling</p></div></div>
+      </section>
+      <section class="foundation" aria-labelledby="foundation-title"><div><p class="eyebrow">02 / FOUNDATION</p><h2 id="foundation-title">Code is how I<br>learn to look deeper.</h2></div><div><p>I learned programming for cybersecurity. Building applications helps me understand their logic, trace data through them, and ask better security questions.</p><p>My existing development work is a foundation. I'm still learning, and I want to share that progress through practical experiments and clear explanations.</p><div class="stack" aria-label="Programming technologies"><span>JavaScript</span><span>Node.js</span><span>Express</span><span>Angular</span><span>MongoDB</span><span>HTML & CSS</span><span>Git</span></div></div></section>
+      <section id="terminal" class="terminal-section" aria-labelledby="terminal-title"><div><p class="eyebrow">03 / SAY HELLO</p><h2 id="terminal-title">A little more,<br>one command away.</h2><p>A small profile terminal. Try a command below.</p><div class="command-shortcuts"><button data-command="about">about</button><button data-command="focus">focus</button><button data-command="stack">stack</button><button data-command="contact">contact</button></div></div><div class="terminal"><div class="terminal-bar"><span><i></i><i></i><i></i></span><span>visitor@pr4thyudh ~</span><span>PROFILE</span></div><div id="terminal-output" role="log" aria-label="Terminal output" aria-live="polite"><p><span class="accent">Welcome.</span> Curious minds belong here.</p><p>Type <span class="accent">help</span> to see the available commands.</p></div><form id="terminal-form" autocomplete="off"><label for="command"><span class="accent">visitor</span> <span>~ $</span></label><input id="command" name="command" aria-label="Profile terminal command" maxlength="80" spellcheck="false" placeholder="help"><button type="submit" aria-label="Run command">↵</button></form></div></section>
+      <noscript><p class="no-script">Enable JavaScript to rotate the 3D core and use the terminal. You can still read this profile and follow its links.</p></noscript>
+    </main>
+    <footer><p>Learn. Build. Test. Document.</p><span>Practice in labs and explicitly authorized environments.</span><a href="mailto:prathyudhpremap@gmail.com">Let's connect ↗</a></footer>
+  </div>
+</body>
+</html>

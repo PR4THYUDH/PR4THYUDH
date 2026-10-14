@@ -26,6 +26,9 @@ I'm still learning. This profile is a place to share that progress through code,
 
 ### 02 / The direction I'm building toward
 
+<details open>
+<summary><strong>Explore my offensive-security learning focus</strong></summary>
+
 | Focus | What I want to understand and practise |
 | :--- | :--- |
 | **Web application security** | How requests, authentication, access control, and input handling can go wrong. |
@@ -33,9 +36,14 @@ I'm still learning. This profile is a place to share that progress through code,
 | **Security scripting** | Using programming to automate repeatable tasks and make sense of results. |
 | **Offensive methodology** | Moving from observation to a testable hypothesis, then documenting impact and remediation. |
 
+</details>
+
 > My practice belongs in my own environments, purpose-built labs, and systems where I have explicit permission to test.
 
 ### 03 / Programming foundation
+
+<details>
+<summary><strong>Open my programming toolkit</strong></summary>
 
 These are the technologies behind my existing development work:
 
@@ -50,6 +58,8 @@ These are the technologies behind my existing development work:
 </p>
 
 Building applications gives me a useful starting point for understanding their attack surface—from browser interactions and backend routes to database operations.
+
+</details>
 
 ### 04 / What I aim to share next
 
