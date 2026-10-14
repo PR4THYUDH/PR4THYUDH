@@ -1,105 +1,64 @@
-# <h1 align="center">Hi 👋, I'm Prathyudh Prem</h1>
+<p align="center">
+  <img src="./assets/offensive-security-banner.svg" width="100%" alt="Prathyudh Prem — cybersecurity learner, aspiring offensive security practitioner. A cyan three-dimensional security core floats above a dark isometric grid." />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MEAN+Stack+Developer;Node.js+Backend+Developer;Always+Learning+New+Technologies&center=true&width=500&height=50">
+  <strong>Understand the system. Question the assumptions. Learn how to secure it.</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/PR4THYUDH?tab=repositories">Explore my repositories</a>
+  &nbsp; · &nbsp;
+  <a href="https://linkedin.com/in/prathyudh">LinkedIn</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:prathyudhpremap@gmail.com">Email</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 01 / About me
 
-* 🎓 BCA Graduate
-* 💻 Full Stack Developer (MEAN Stack)
-* 🚀 Currently building a **Hospital Management System**
-* 🧠 Interested in **Backend Development & Cybersecurity**
-* ⚡ Love solving problems with code
+I'm **Prathyudh Prem**, a BCA graduate learning cybersecurity and working toward the **offensive side of security**.
 
----
+I learned programming to support that goal: to understand how applications work, read the logic behind them, and build tools that help me investigate security questions. My development projects are part of that foundation.
 
-## 🚀 Tech Stack
+I'm still learning. This profile is a place to share that progress through code, practical experiments, and clear explanations.
 
-### 💻 Languages
+### 02 / The direction I'm building toward
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+| Focus | What I want to understand and practise |
+| :--- | :--- |
+| **Web application security** | How requests, authentication, access control, and input handling can go wrong. |
+| **Systems & networking** | The operating-system and network fundamentals behind an application's behaviour. |
+| **Security scripting** | Using programming to automate repeatable tasks and make sense of results. |
+| **Offensive methodology** | Moving from observation to a testable hypothesis, then documenting impact and remediation. |
 
-### 🧰 Frontend
+> My practice belongs in my own environments, purpose-built labs, and systems where I have explicit permission to test.
 
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
-![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge\&logo=angular)
+### 03 / Programming foundation
 
-### ⚙️ Backend
+These are the technologies behind my existing development work:
 
-![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-101923?style=flat-square&amp;logo=javascript&amp;logoColor=67E8F9" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-101923?style=flat-square&amp;logo=nodedotjs&amp;logoColor=67E8F9" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-101923?style=flat-square&amp;logo=express&amp;logoColor=67E8F9" alt="Express" />
+  <img src="https://img.shields.io/badge/Angular-101923?style=flat-square&amp;logo=angular&amp;logoColor=67E8F9" alt="Angular" />
+  <img src="https://img.shields.io/badge/MongoDB-101923?style=flat-square&amp;logo=mongodb&amp;logoColor=67E8F9" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/HTML_%26_CSS-101923?style=flat-square&amp;logo=html5&amp;logoColor=67E8F9" alt="HTML and CSS" />
+  <img src="https://img.shields.io/badge/Git-101923?style=flat-square&amp;logo=git&amp;logoColor=67E8F9" alt="Git" />
+</p>
 
-### 🗄 Database
+Building applications gives me a useful starting point for understanding their attack surface—from browser interactions and backend routes to database operations.
 
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge\&logo=mongodb)
+### 04 / What I aim to share next
 
-### 🛠 Tools
-
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge\&logo=visualstudiocode)
-
----
-
-## 📌 Featured Project
-
-### 🏥 Hospital Management System
-
-A full stack hospital management application that helps manage doctors, patients and appointments.
-
-**Features**
-
-✔ Doctor management
-✔ Patient management
-✔ Appointment booking
-✔ Admin dashboard
-
-**Tech Stack**
-
-Node.js | Express.js | MongoDB | Angular
-
----
-
-## 📊 GitHub Stats
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PR4THYUDH&theme=github_dark" />
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=PR4THYUDH&theme=tokyonight)
-
----
-
-## 📈 Top Languages
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PR4THYUDH&theme=github_dark" />
-
----
-
-## 🧑‍💻 3D Contribution Graph
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PR4THYUDH&theme=github_dark" />
+- **Lab notes** that explain what I tried, what happened, and what I learned.
+- **Small security scripts** with a clear purpose, usage instructions, and limitations.
+- **Application security experiments** that connect a weakness with its cause and a possible fix.
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PR4THYUDH&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <sub>PR4THYUDH &nbsp; / &nbsp; LEARN · BUILD · TEST · DOCUMENT</sub>
 </p>
-
----
-
-## 📫 Connect With Me
-
-LinkedIn: https://linkedin.com/in/prathyudh
-
-Email: [prathyudhpremap@gmail.com](mailto:prathyudhpremap@egmail.com)
-
----
-
-⭐ From [PR4THYUDH](https://github.com/PR4THYUDH)

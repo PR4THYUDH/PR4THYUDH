@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480" role="img" aria-labelledby="title desc">
+  <title id="title">Prathyudh Prem — aspiring offensive security practitioner</title>
+  <desc id="desc">A dark technical composition with a floating cyan glass security core, layered isometric platforms and fine orbit lines.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c1422"/><stop offset="1" stop-color="#05090f"/></linearGradient>
+    <radialGradient id="aura"><stop stop-color="#0b6478" stop-opacity=".5"/><stop offset="1" stop-color="#08111d" stop-opacity="0"/></radialGradient>
+    <linearGradient id="top" x2=".2" y2="1"><stop stop-color="#74edfa" stop-opacity=".72"/><stop offset="1" stop-color="#137991" stop-opacity=".38"/></linearGradient>
+    <linearGradient id="left" x2="1" y2="1"><stop stop-color="#124d68" stop-opacity=".8"/><stop offset="1" stop-color="#071c2e" stop-opacity=".85"/></linearGradient>
+    <linearGradient id="right" x2="0" y2="1"><stop stop-color="#29c8de" stop-opacity=".5"/><stop offset="1" stop-color="#0b2b42" stop-opacity=".55"/></linearGradient>
+    <linearGradient id="line"><stop stop-color="#67e8f9"/><stop offset="1" stop-color="#67e8f9" stop-opacity="0"/></linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5"/></filter>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".7" fill="#648096" opacity=".17"/></pattern>
+    <clipPath id="clip"><rect width="1280" height="480" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1280" height="480" fill="url(#bg)"/>
+    <rect width="1280" height="480" fill="url(#dots)"/>
+    <ellipse cx="994" cy="232" rx="343" ry="285" fill="url(#aura)"/>
+    <path d="M730 480 1280 162M820 480 1280 214M910 480 1280 266M1000 480 1280 318M1090 480 1280 370M1180 480 1280 422M710 344 945 480M754 317 1036 480M798 290 1128 480M842 263 1220 480M886 236 1280 464M930 209 1280 411M974 182 1280 359" fill="none" stroke="#30546a" stroke-opacity=".25"/>
+    <path d="M48 57V35h22M1210 35h22v22M48 423v22h22M1210 445h22v-22" fill="none" stroke="#396171"/>
+    <g font-family="'Segoe UI',Arial,sans-serif">
+      <rect x="66" y="61" width="213" height="28" rx="14" fill="#112b35" stroke="#24505b"/>
+      <circle cx="82" cy="75" r="3" fill="#67e8f9"/>
+      <text x="95" y="79" font-size="10" letter-spacing="2" fill="#99e6ef">CYBERSECURITY LEARNER</text>
+      <text x="64" y="167" font-size="57" font-weight="700" letter-spacing="-2.5" fill="#f0f6fc">Prathyudh Prem</text>
+      <text x="67" y="207" font-size="13" letter-spacing="5" fill="#67e8f9">PR4THYUDH / OFFENSIVE SECURITY</text>
+      <path d="M67 235H617" stroke="url(#line)"/>
+      <text x="67" y="280" font-size="22" fill="#d2dce6">Learning how systems break.</text>
+      <text x="67" y="312" font-size="22" fill="#d2dce6">Building the skills to secure them.</text>
+      <text x="67" y="360" font-size="13" fill="#8295a8">Programming as a foundation. Curiosity as a constant.</text>
+      <text x="67" y="415" font-size="10" letter-spacing="2.5" fill="#567789">LEARN  /  BUILD  /  TEST  /  DOCUMENT</text>
+    </g>
+    <g stroke-linejoin="round">
+      <ellipse cx="976" cy="357" rx="180" ry="48" fill="#20c8df" opacity=".07" filter="url(#glow)"/>
+      <path d="m799 343 177-98 177 98-177 99z" fill="#071320" stroke="#1b4153"/>
+      <path d="m799 343 177 99 177-99v14l-177 99-177-99z" fill="#07101a" stroke="#183446"/>
+      <path d="m820 316 156-87 156 87-156 88z" fill="#0b2434" stroke="#2b7182"/>
+      <path d="m820 316 156 88 156-88v12l-156 88-156-88z" fill="#0b1826" stroke="#234a5d"/>
+      <path d="m845 288 131-73 131 73-131 73z" fill="#103341" fill-opacity=".6" stroke="#51c8d8" stroke-opacity=".6"/>
+      <path d="M976 89v288M819 171l308 173M1133 171 825 344" stroke="#357a8b" stroke-opacity=".45" stroke-dasharray="3 8"/>
+      <ellipse cx="976" cy="219" rx="183" ry="68" transform="rotate(-27 976 219)" fill="none" stroke="#497e91" stroke-opacity=".4"/>
+      <ellipse cx="976" cy="219" rx="183" ry="68" transform="rotate(27 976 219)" fill="none" stroke="#58c4d2" stroke-opacity=".3"/>
+      <path d="m879 154 97-56 97 56v120l-97 56-97-56z" fill="#48d9ee" opacity=".08" filter="url(#glow)"/>
+      <path d="m879 154 97-56 97 56-97 56z" fill="url(#top)" stroke="#92f3fa" stroke-width="1.3"/>
+      <path d="m879 154 97 56v120l-97-56z" fill="url(#left)" stroke="#367e97" stroke-width="1.3"/>
+      <path d="m976 210 97-56v120l-97 56z" fill="url(#right)" stroke="#6fe9f3" stroke-width="1.3"/>
+      <path d="m879 154 97 56 97-56M976 210v120" fill="none" stroke="#c2faff" stroke-width="2"/>
+      <path d="m901 154 75-43 75 43-75 43z" fill="none" stroke="#b1f7fb" stroke-opacity=".55"/>
+      <path d="m930 152 46-27 46 27-46 27z" fill="#061b2a" fill-opacity=".65" stroke="#a5f3fc"/>
+      <path d="m957 151 12 7 28-16" fill="none" stroke="#a5f3fc" stroke-width="3" stroke-linecap="round"/>
+      <path d="M997 222v49l21-12v-49zM1030 203v49l21-12v-49z" fill="#78edfa" fill-opacity=".13" stroke="#7eeafa" stroke-opacity=".35"/>
+      <path d="m897 191 56 32m-56-16 42 24m-42-8 50 29" stroke="#66bcce" stroke-width="2" stroke-opacity=".5"/>
+      <circle cx="976" cy="98" r="4" fill="#d0fcff"/>
+      <circle cx="976" cy="330" r="4" fill="#bdf8ff"/>
+      <circle cx="815" cy="185" r="4" fill="#67e8f9"/>
+      <circle cx="1138" cy="253" r="3" fill="#67e8f9"/>
+      <path d="M1075 111h76l18-18M853 291h-65l-19 19" fill="none" stroke="#467689"/>
+    </g>
+    <g font-family="Consolas,'Courier New',monospace" font-size="9" letter-spacing="1.5" fill="#739cae">
+      <text x="1080" y="101">SYSTEM / 01</text>
+      <text x="850" y="414">ASPIRING OFFENSIVE PRACTITIONER</text>
+      <text x="1075" y="67" fill="#4e7889">[ LEARNING MODE ]</text>
+    </g>
+    <rect x=".5" y=".5" width="1279" height="479" rx="20" fill="none" stroke="#233745"/>
+  </g>
+</svg>
