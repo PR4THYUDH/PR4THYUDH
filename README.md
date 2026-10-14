@@ -1,5 +1,12 @@
 <p align="center">
+  <a href="https://pr4thyudh.github.io/PR4THYUDH/">
   <img src="./assets/offensive-security-banner.svg" width="100%" alt="Prathyudh Prem — cybersecurity learner, aspiring offensive security practitioner. A cyan three-dimensional security core floats above a dark isometric grid." />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://pr4thyudh.github.io/PR4THYUDH/"><strong>ENTER THE INTERACTIVE PROFILE ↗</strong></a><br />
+  <sub>Rotate the 3D core · Explore my learning focus · Try the profile terminal</sub>
 </p>
 
 <p align="center">
