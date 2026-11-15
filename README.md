@@ -1,81 +1,53 @@
-<p align="center">
-  <a href="https://pr4thyudh.github.io/PR4THYUDH/">
-  <img src="./assets/offensive-security-banner.svg" width="100%" alt="Prathyudh Prem — cybersecurity learner, aspiring offensive security practitioner. A cyan three-dimensional security core floats above a dark isometric grid." />
-  </a>
-</p>
+<picture>
+  <source media="(max-width: 640px) and (prefers-color-scheme: dark)" srcset="./assets/profile-dark-compact.svg">
+  <source media="(max-width: 640px) and (prefers-color-scheme: light)" srcset="./assets/profile-light-compact.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-light.svg">
+  <img src="./assets/profile-light.svg" width="100%" alt="Prathyudh Prem — aspiring penetration tester. Programming for cybersecurity.">
+</picture>
 
-<p align="center">
-  <a href="https://pr4thyudh.github.io/PR4THYUDH/"><strong>ENTER THE INTERACTIVE PROFILE ↗</strong></a><br />
-  <sub>Rotate the 3D core · Explore my learning focus · Try the profile terminal</sub>
-</p>
+# Prathyudh Prem
 
-<p align="center">
-  <strong>Understand the system. Question the assumptions. Learn how to secure it.</strong>
-</p>
+**Aspiring penetration tester · MCA student · Cybersecurity learner**
 
-<p align="center">
-  <a href="https://github.com/PR4THYUDH?tab=repositories">Explore my repositories</a>
-  &nbsp; · &nbsp;
-  <a href="https://linkedin.com/in/prathyudh">LinkedIn</a>
-  &nbsp; · &nbsp;
-  <a href="mailto:prathyudhpremap@gmail.com">Email</a>
-</p>
+I learned programming for cybersecurity. I build projects to understand how applications work, practise testing their behaviour, and develop the skills I need for penetration testing.
 
----
+[View my interactive profile](https://pr4thyudh.github.io/PR4THYUDH/) · [LinkedIn](https://linkedin.com/in/prathyudh) · [Email me](mailto:prathyudhpremap@gmail.com)
 
-### 01 / About me
+## Selected projects
 
-I'm **Prathyudh Prem**, a BCA graduate learning cybersecurity and working toward the **offensive side of security**.
+### [FinSight — Expense Tracker](https://github.com/PR4THYUDH/Expense-Tracker)
 
-I learned programming to support that goal: to understand how applications work, read the logic behind them, and build tools that help me investigate security questions. My development projects are part of that foundation.
+A Django expense app with authentication and user-scoped records. Includes tests for cross-user access to viewing, editing, deleting and exporting expenses.
 
-I'm still learning. This profile is a place to share that progress through code, practical experiments, and clear explanations.
+<code>Python</code> <code>Django</code> <code>Access control</code> · <a href="https://github.com/PR4THYUDH/Expense-Tracker/blob/main/core_app/tests.py">Read the access-control tests</a>
 
-### 02 / The direction I'm building toward
+### [Movie Insight Builder](https://github.com/PR4THYUDH/Movie_Insight_Builder)
 
-<details open>
-<summary><strong>Explore my offensive-security learning focus</strong></summary>
+An Angular and Express movie lookup app integrating the OMDb API. A project for working with browser requests, backend routes and external API responses.
 
-| Focus | What I want to understand and practise |
+<code>TypeScript</code> <code>Angular</code> <code>Node.js</code> <code>Express</code>
+
+## Cybersecurity learning focus
+
+| Area | What I’m working toward |
 | :--- | :--- |
-| **Web application security** | How requests, authentication, access control, and input handling can go wrong. |
-| **Systems & networking** | The operating-system and network fundamentals behind an application's behaviour. |
-| **Security scripting** | Using programming to automate repeatable tasks and make sense of results. |
-| **Offensive methodology** | Moving from observation to a testable hypothesis, then documenting impact and remediation. |
+| **Web application testing** | Understanding requests, authentication, access control and input handling. |
+| **Systems and networking** | Developing the fundamentals behind application and network behaviour. |
+| **Security scripting** | Using programming to automate repeatable tasks and interpret results. |
+| **Pentest reporting** | Connecting evidence to impact, explaining the cause and recommending a fix. |
 
-</details>
+## Education and training
 
-> My practice belongs in my own environments, purpose-built labs, and systems where I have explicit permission to test.
-
-### 03 / Programming foundation
+- **Master of Computer Applications (pursuing)** · Sreenarayana Guru Open University
+- **OCSP course (in progress)** · Offenso Hackers Academy
+- **Bachelor of Computer Applications (completed)**
 
 <details>
-<summary><strong>Open my programming toolkit</strong></summary>
+<summary><strong>Programming toolkit</strong></summary>
 
-These are the technologies behind my existing development work:
+Tools used across my projects: Python, Django, JavaScript, TypeScript, Angular, Node.js, Express, HTML, CSS and Git.
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-101923?style=flat-square&amp;logo=javascript&amp;logoColor=67E8F9" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-101923?style=flat-square&amp;logo=nodedotjs&amp;logoColor=67E8F9" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-101923?style=flat-square&amp;logo=express&amp;logoColor=67E8F9" alt="Express" />
-  <img src="https://img.shields.io/badge/Angular-101923?style=flat-square&amp;logo=angular&amp;logoColor=67E8F9" alt="Angular" />
-  <img src="https://img.shields.io/badge/MongoDB-101923?style=flat-square&amp;logo=mongodb&amp;logoColor=67E8F9" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/HTML_%26_CSS-101923?style=flat-square&amp;logo=html5&amp;logoColor=67E8F9" alt="HTML and CSS" />
-  <img src="https://img.shields.io/badge/Git-101923?style=flat-square&amp;logo=git&amp;logoColor=67E8F9" alt="Git" />
-</p>
-
-Building applications gives me a useful starting point for understanding their attack surface—from browser interactions and backend routes to database operations.
+I’m developing this programming foundation alongside my cybersecurity training and practical projects.
 
 </details>
-
-### 04 / What I aim to share next
-
-- **Lab notes** that explain what I tried, what happened, and what I learned.
-- **Small security scripts** with a clear purpose, usage instructions, and limitations.
-- **Application security experiments** that connect a weakness with its cause and a possible fix.
-
----
-
-<p align="center">
-  <sub>PR4THYUDH &nbsp; / &nbsp; LEARN · BUILD · TEST · DOCUMENT</sub>
-</p>
